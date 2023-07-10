@@ -48,13 +48,13 @@ The null hypothesis states that there is no significant difference between the p
 
 The alternative hypothesis suggests that there is a significant difference between the proportions of harmful chemicals in the two companies. It posits that the proportion of harmful chemicals in one company (Pa) is not equal to the proportion of harmful chemicals in the other company (Pp).
 
-One -
+**One -**
 
 The obtained P-value of approximately 0.62 exceeds predetermined rejection threshold.
 
 Hence, we fail to reject the null hypothesis. Consequently, it can be concluded that the observed difference in proportion between** Chanel Inc. and American International Industries** is likely due to random chance. Reliance solely on the ratio difference is insufficient for determining which company has a higher prevalence of very harmful products compared to the other.
 
-Two -
+**Two -**
 
 The computed P-value of approximately 0.75 significantly exceeds my predetermined rejection threshold.
 
